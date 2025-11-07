@@ -1,10 +1,8 @@
 Bu ödevde TypeScript dilinde 20 tane soru vardı.
-Soruların çoğu tiplerle (generic, mapped type, infer falan) alakalıydı.
-Bazılarını yaparken baya uğraştırdı, özellikle 13 ve 20. sorularda biraz zorlandım ama sonunda hepsi çalıştı diyebilirim.
+Soruların çoğu tiplerle (generic infer falan) alakalıydı.
 Bazı hataları da bilerek bıraktım çünkü hocanın beklediği şey “@ts-expect-error” uyarısının çıkmasıydı.
-Hepsini ayrı dosyalarda yazdım (Soru1.ts, Soru2.ts, … Soru20.ts) ve terminalden npx ts-node ile çalıştırdım.
-TypeScript’te infer, mapped type ve conditional type konularını ilk defa bu kadar derinlemesine gördüm.
-Özellikle infer kısmı beni biraz zorladı ama birkaç örnekle çözmeyi başardım.
+Hepsini ayrı dosyalarda yazdım  ve terminalden npx ts-node ile çalıştırdım.
+TypeScript’te infer, mapped type  type konularını ilk defa bu kadar derinlemesine gördüm.
 Bazı sorularda hoca “derleyicide hata olması gerekiyor” dediği için, o satırları bilerek silmedim.
 
 Soru	             Açıklama
